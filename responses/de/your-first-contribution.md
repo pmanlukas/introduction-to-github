@@ -7,4 +7,4 @@ People use different workflows to contribute to software projects, but the simpl
 :tv: [Video: Understanding the GitHub flow](https://www.youtube.com/watch?v=PBI2Rz-ZOxU)
 
 <hr>
-<h3 align="center">Read below for next steps</h3>
+<h3 align="center">Unten findest du die nächsten Schritte!</h3>
